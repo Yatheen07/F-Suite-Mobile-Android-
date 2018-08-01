@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "991181656478",
+    "firebase_url": "https://current-trends-farmer.firebaseio.com",
+    "project_id": "current-trends-farmer",
+    "storage_bucket": "current-trends-farmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991181656478:android:8a5b38220c4d9869",
+        "android_client_info": {
+          "package_name": "com.example.kmy07.currenttrendsui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991181656478-unmiqp7oacrhaedu4mn34q6nql3i43gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kmy07.currenttrendsui",
+            "certificate_hash": "95d1bface602e39661d342e9f05d85016ff76e5f"
+          }
+        },
+        {
+          "client_id": "991181656478-dls0cc21l4t3gil2shrv79ombjs2p0us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_KUPZIuN_4XVof1vV4z55R1dRFZ_Xog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991181656478-dls0cc21l4t3gil2shrv79ombjs2p0us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991181656478:android:0630e900487333af",
+        "android_client_info": {
+          "package_name": "com.example.kmy07.samplru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991181656478-cud28hvii3d52lu037l9b5mqpgfv6fvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kmy07.samplru",
+            "certificate_hash": "95d1bface602e39661d342e9f05d85016ff76e5f"
+          }
+        },
+        {
+          "client_id": "991181656478-dls0cc21l4t3gil2shrv79ombjs2p0us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_KUPZIuN_4XVof1vV4z55R1dRFZ_Xog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991181656478-dls0cc21l4t3gil2shrv79ombjs2p0us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

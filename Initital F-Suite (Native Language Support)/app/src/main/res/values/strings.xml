@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">F-Suite</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_ui">சமீபத்திய செய்திகள் மற்றும் தகவல்</string>
+    <string name="knowMore">மேலும் அறிய</string>
+    <string name="share">பகிர்</string>
+    <string name="title_activity_farmer_registration">பதிவு செய்யுங்கள்</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="farmer_name">விவசாயியின் பெயர்</string>
+    <string name="farmer_age">விவசாயியின் வயது</string>
+    <string name="phone_number">உங்கள் தொலைபேசி எண்</string>
+    <string name="farm_area">விவசாய நிலப்பகுதி</string>
+    <string name="district">மாவட்டம்</string>
+    <string name="consent">இதைக் கிளிக் செய்வதன் மூலம், உங்கள் தரவை மேலும் பகுப்பாய்வு செய்வதற்கு அனுமதிக்க ஒப்புக்கொள்கிறீர்கள்</string>
+    <string name="submit">சமர்ப்பி</string>
+    <string name="harvesting_period">அறுவடை காலம்</string>
+    <string name="recommdendations">பயிர் பரிந்துரைகள்</string>
+    <string name="estimation">கணிப்பு</string>
+    <string name="analyze">ஆய்வு செய்</string>
+    <string name="for_help">உதவிக்கு</string>
+
+
+    <string-array name="districts_array">
+        <item>அரியலூர்</item>
+        <item>சென்னைi</item>
+        <item>திண்டுக்கல்</item>
+        <item>ஈரோடு</item>
+        <item>நாமக்கல்</item>
+        <item>ராமநாதபுரம்</item>
+        <item>தஞ்சாவூர்</item>
+        <item>தேனி</item>
+    </string-array>
+
+    <string name="mes1">Kududhal vaaruvai tharum orginiatha </string>
+    <string name="title_activity_details_registration">விவரங்களை கொடுக்கவும்</string>
+
+
+</resources>
